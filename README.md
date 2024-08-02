@@ -1,3 +1,3 @@
 # HTML
-Hypertext markup language 2000 <br>
-Author - Laxmi Maurya.
+Hypertext markup language  <br>
+Author - Laxmi Maurya
