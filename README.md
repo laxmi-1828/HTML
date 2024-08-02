@@ -1,3 +1,3 @@
 # HTML
-Hyper text markup language
-Author - (Laxmi)
+Hypertext markup language
+Author - Laxmi 
